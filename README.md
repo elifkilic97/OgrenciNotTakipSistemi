@@ -4,6 +4,9 @@ Java ve SQL Server kullanılarak geliştirilmiş, rol tabanlı bir masaüstü ö
 
 Bu proje, Marmara Üniversitesi Bilgisayar Programcılığı programında **Nesne Yönelimli Programlama II** dersi kapsamında final projesi olarak geliştirilmiştir.
 
+## Proje Raporu
+
+Projenin tasarımı, veritabanı yapısı, sınıf mimarisi ve uygulama ekranları hakkında daha ayrıntılı bilgi için [Proje Raporu](docs/ProjeRaporu.pdf) dosyasını inceleyebilirsiniz.
 ## Proje Hakkında
 
 Uygulama; öğrenci, öğretmen ve yönetici (admin) olmak üzere üç farklı kullanıcı rolünü desteklemektedir. Kullanıcılar giriş yaptıktan sonra rollerine göre farklı işlemlere erişebilir.
